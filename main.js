@@ -59,7 +59,7 @@ const login = prompt('Enter your login:');
 const email = prompt('Enter your email:');
 const password = prompt('Enter your password:');
 
-let message = "Dear User, your email is" + email + ", your password is" + password + ".";
+let message = "Dear User, your email is " + email + ", your password is " + password + ".";
 alert(message);
 
 // 8
