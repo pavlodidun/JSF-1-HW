@@ -30,8 +30,8 @@ console.table(myCar);
 
 // 5
 
-let ageCheck = confirm('Are you over 18?');
-console.log(ageCheck);
+let isAdult = confirm('Are you over 18?');
+console.log(isAdult);
 
 // 6
 
